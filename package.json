@@ -1,0 +1,23 @@
+{
+  "name": "Class-and-Promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SLandgra/Class-and-Promises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SLandgra/Class-and-Promises/issues"
+  },
+  "homepage": "https://github.com/SLandgra/Class-and-Promises#readme",
+  "dependencies": {
+    "inquirer": "^7.0.5"
+  }
+}
